@@ -1,2 +1,3 @@
 # despliegue
-Este fichero es una descripción del proyecto
+Este fichero es una descripción del proyecto.
+He modificado el README desde VSCode
